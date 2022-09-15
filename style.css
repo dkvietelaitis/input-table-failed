@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body
+{
+    padding: 20px 20px;
+}
+input
+{
+    width: 150px;
+    margin-bottom: 5px;
+}
+button
+{
+    width: 150px;
+    margin-bottom: 5px;
+}
+th
+{
+    width: 150px;
+    height: 30px;
+    text-align: center;
+    font-family: Tahoma, sans-serif;
+    border: 1px solid orange;
+    background: orange;
+}
+/*td
+{
+    width: 150px;
+    height: 30px;
+    text-align: center;
+    font-family: Tahoma, sans-serif;
+    border: 1px solid orange;
+    background: purple;
+    color: white;
+}*/
+
